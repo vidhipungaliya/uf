@@ -1,0 +1,49 @@
+#score {
+    margin-left: 5px;
+    font-size: 25px;
+    font-family: 'Oswald' , sans-serif;
+}
+
+#timer {
+    float: right;
+    margin-right: 5px;
+    font-size: 30px;
+    font-family: 'Oswald' , sans-serif;
+}
+
+
+body {
+    background-color: rgb(105, 105, 105);
+}
+
+h1  {
+    background-color: darkgray;
+    color: black;
+    font-family: 'Oswald' , sans-serif;
+}
+
+
+#show_sketch
+{
+    float: right;
+    background-color: rgb(106, 121, 116);
+    border: rgb(106, 121, 116);
+    color: black;
+}
+
+p
+
+{
+font-family: 'Oswald' , sans-serif;
+font-size: 30px;
+color: black;
+}
+
+
+#sketch_to_be_drawn
+
+{
+    font-family: 'Oswald' , sans-serif;
+    font-size: 30px;
+    color: black;
+}
